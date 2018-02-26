@@ -29,4 +29,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var theStuff = funkyFunction();
-var theFunk = theStuff.toString();
+var theFunk = theStuff.();
